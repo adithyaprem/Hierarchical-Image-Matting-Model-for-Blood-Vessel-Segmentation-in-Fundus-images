@@ -7,6 +7,6 @@ The master code comprising of all the submodules is contained in the [Image Matt
 
 
 You can start executing the code by installing the requirements from requirements.txt by running this command.
-> $pip install -r requirement.txt
+> pip install -r requirement.txt
 
 The code is still under modifications, so feel free to suggest any changes.
